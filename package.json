@@ -1,5 +1,5 @@
 {
-  "name": "pokemon_app",
+  "name": "todo_list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,7 +13,7 @@
     "shortid": "^2.2.16",
     "web-vitals": "^2.1.4",
     "gh-pages": "^6.2.0",
-    "homepage": "https://github.com/IslamAhmad11/TodoList_React.git"
+    "homepage": "https://github.com/IslamAhmad11/github.io/TodoList_React"
   },
   "scripts": {
     "start": "react-scripts start",
